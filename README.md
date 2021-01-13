@@ -32,12 +32,4 @@
 ## Github Stats  
 <img src="https://github-readme-stats.vercel.app/api?username=gerrronimo&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gerrronimo&hide_border=true&layout=compact" align="left" />  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gerrronimo&hide_border=true&layout=compact" align="left" />
