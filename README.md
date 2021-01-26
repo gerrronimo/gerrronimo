@@ -1,10 +1,10 @@
-### <div align="center">I'm Nikolay, a frontend developer 👨‍💻 working remotely since 2021 🚀</div>  
+### <div align="center">I'm Nikolay, a junior frontend developer 👨‍💻 working remotely since 2021 🚀</div>  
   
 
-- 🔭 I’m currently working on [Leadely](https://github.com/Leadely)  
+- 🌱 I’m currently working on [Leadely](https://github.com/Leadely)  
   
 
-- 🌱 I’m currently learning Golang and other backend technologies  
+- 🔭 I’m currently learning Golang and other backend technologies  
   
 
 <br/>  
