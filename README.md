@@ -4,7 +4,7 @@
 - 🌱 I’m currently working on [Leadely](https://github.com/Leadely)  
   
 
-- 🔭 I’m currently learning Golang and other backend technologies  
+- 🔭 I’m currently learning ReactJS, Golang and other backend technologies  
   
 
 <br/>  
