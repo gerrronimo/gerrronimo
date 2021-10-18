@@ -1,10 +1,13 @@
-### <div align="center">I'm Nikolay, a front-end developer 👨‍💻 working remotely since 2021 🚀</div>  
+### <div align="center">I'm Nikolay, a front-end developer 👨‍💻 working remotely since 2020-21 🚀</div>  
   
 
 - 🌱 I’m currently working on [Leadely](https://github.com/Leadely)  
   
 
 - 🔭 I’m currently learning GOlang and Swift
+
+
+- Have 2 years experiance JavaScript and 1,5 years React/Redux development
   
 
 <br/>  
