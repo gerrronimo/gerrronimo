@@ -15,6 +15,6 @@ const Developer = {
   }
 }
 
-const me = Developer;
+const me = new Developer();
 me.sayHi();
 ```
