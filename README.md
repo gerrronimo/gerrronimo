@@ -4,11 +4,11 @@
 const Developer = {
   name: "Nikolay Chumakov",
   pronouns: "he/him/his",
-  age: 20,
+  age: 21,
   role: "Frontend engineer",
   location: "Kazan 🇷🇺",
   languages: ["ru_RU", "en_US"],
-  skills: ["JavaScript", "TypeScript", "React"],
+  main_skills: ["JavaScript", "TypeScript", "React"],
   
   sayHi: () => {
     console.log("Hey, thanks for dropping by, feel free to have a look at my work!");
