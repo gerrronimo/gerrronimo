@@ -4,7 +4,8 @@
 const Developer = {
   name: "Nikolay Chumakov",
   pronouns: "he/him/his",
-  age: 21,
+  age: 22,
+  company: "Sber",
   role: "Frontend engineer",
   location: "Kazan 🇷🇺",
   languages: ["ru_RU", "en_US"],
