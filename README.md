@@ -4,10 +4,10 @@
 const Developer = {
   name: "Nikolay Chumakov",
   pronouns: "he/him/his",
-  age: 22,
-  company: "Sber",
+  age: 23,
+  company: "Tochka",
   role: "Frontend engineer",
-  location: "Kazan 🇷🇺",
+  location: "Sochi 🇷🇺",
   languages: ["ru_RU", "en_US"],
   main_skills: ["JavaScript", "TypeScript", "React"],
   
